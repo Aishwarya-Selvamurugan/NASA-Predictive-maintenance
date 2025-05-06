@@ -89,10 +89,8 @@ LSTM (50 units) → Dropout (0.2) → LSTM (50 units) → Dropout (0.2) → Dens
 │   ├── train_FD001.txt
 │   ├── test_FD001.txt
 │   ├── RUL_FD001.txt
-├── model/
-│   ├── model.h5 (optional if saved)
 ├── README.md
-└── your_notebook.ipynb
+└── NASA Predictive maintenance.ipynb
 ```
 
 ---
